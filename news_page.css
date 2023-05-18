@@ -1,0 +1,68 @@
+.news_page {
+	margin-top: 50px;
+	font-family: BankGothic RUSS Medium;
+}
+
+
+.header_results {
+	text-align: center;
+	font-size: 32px;
+	font-weight: bold;
+	color: #266b90;
+	padding-top: 110px;
+}
+
+.title_result {
+	text-align: center;
+	font-size: 24px;
+	color: #266b90;
+}
+
+.text_result {
+	font-size: 23px;
+	margin-top: 30px;
+}
+
+.text_result p {
+	color: #000000;
+}
+
+.text_result a {
+	color: cornflowerblue;
+}
+
+.text_result img {
+	margin-top: 50px;
+	max-width: 500px;
+	/* height: auto; */
+	width: 100%;
+	display: block;
+	margin: 50px auto 50px;
+	margin-bottom: 50px;
+	border: 1px solid #000000;
+}
+
+.card-img,
+.card-5 .card-img-hovered {
+	background-image: var(--card-img-hovered-overlay), url('https://социальныйкомпас.рф/upload/medialibrary/7b3/b3o5jl4zsrtwz9f16nms5hzsf6fn376p.jpg');
+}
+
+.card-img,
+.card-6 .card-img-hovered {
+	background-image: var(--card-img-hovered-overlay), url('https://31tv.ru/wp-content/uploads/2018/12/shag0312.jpg');
+}
+
+.card-img,
+.card-7 .card-img-hovered {
+	background-image: var(--card-img-hovered-overlay), url('http://derbend.ru/wp-content/uploads/2022/04/61afac70-747c-4c61-bafe-8e21acdd0f99.jpeg');
+}
+
+.card-img,
+.card-8 .card-img-hovered {
+	background-image: var(--card-img-hovered-overlay), url('https://tslava.ru/wp-content/uploads/2023/01/55654-dlya-novgorodskikh-shkolnikov-projdut-uroki-tsifry-na-fabrike-kosmoponchik.jpg');
+}
+
+.card-img,
+.card-9 .card-img-hovered {
+	background-image: var(--card-img-hovered-overlay), url('https://avatars.mds.yandex.net/i?id=2a00000187d0d9a30680a60769d1e393b461-1342655-fast-images&n=13');
+}
